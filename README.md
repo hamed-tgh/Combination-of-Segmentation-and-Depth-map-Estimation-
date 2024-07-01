@@ -14,6 +14,7 @@ Semantic segmentation is a deep learning algorithm that associates a label or ca
 ## what Depth Estimation?
 
 Depth Estimation is the task of measuring the distance of each pixel relative to the camera
+
 ![Untitled](https://github.com/hamed-tgh/Combination-of-Segmentation-and-Depth-map-Estimation-/assets/47190471/5dcf81e9-c530-4b9e-bb59-6c570cd60011)
 
 ## Coding Details
